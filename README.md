@@ -7,8 +7,13 @@
 5. Set up Github repository: click the '+' sign and choose "Create New Repository."
 6. Enter a reposittory name and write a short description in their respective boxes.
 7. Select the "Add a README file" and click "Create Repository."
-8. 
-
+8. A repository can be created via WebStorm.
+9. On WebStorm, VCS -> Checkout from Version Control -> Git. Enter a Github repository name and enter a local path name.
+10. To create WebStorm files, go to File -> New -> HTML file or Stylesheet (for CSS).
+11. These files can be edited and committed to Git and pushed to GitHub.
+12. Edit file and commit to Git by VCS -> Git -> Commit.
+13. Push change to GitHub by VCS -> Git -> Push.
+14. The revised file from WebStorm can now be viewed on GitHub.
 
 ### Part 2 Glossary
 * **Branch**: a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.
