@@ -1,4 +1,4 @@
-# Tutorial and Definitions
+# Tutorial and Definition
 ### Tutorial for GIT, Github, and WebStorm
 1. Download WebStorm [here](https://www.jetbrains.com/student/).
 2. Download GIT [here](https://git-scm.com/downloads).
@@ -15,7 +15,7 @@
 13. Push change to GitHub by VCS -> Git -> Push.
 14. The revised file from WebStorm can now be viewed on GitHub.
 
-### Part 2 Glossary
+### Glossary and Definitons
 * **Branch**: a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.
 * **Clone**: a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.
 * **Commit**: an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when. Commits usually contain a commit message which is a brief description of what changes were made.
